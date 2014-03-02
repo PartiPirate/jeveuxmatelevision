@@ -4,7 +4,7 @@
 
 ## Licence
 
-Voir la fichier [LICENCE](/LICENCE)
+Voir la fichier [LICENCE](/LICENSE)
 
 ## Démarrage
 
