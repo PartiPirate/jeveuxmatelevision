@@ -1,10 +1,16 @@
 # Je veux ma télévision (française)
 
-[décrire ici le but, les tenants et les aboutissants du projet]
+Aujourd'hui avec internet, il est possible de voyager tout en gardant un accès à la culture que nous ne pouvions, avant, profiter qu'à la maison. Livres films, chansons sont à porté de clic où que nous soyons. Ce n'est pas le cas des émissions de télévision française qui sont très souvent bloquées à l'étranger.
 
-## Licence
+Ce géoblocage est le plus souvent du au choix délibéré des producteurs des programmes de n'autoriser la diffusion que dans un seul pays. Cela penalise les diffuseurs et les artistes qui se coupent ainsi qu'une partie de leur public C'est prejudiciable aux spectateurs qui ne sait pas ce qu'il peut voir ou non. C'est un frein à la diffusion de la francophonie.
 
-Voir la fichier [LICENCE](/LICENSE)
+Ces géoblocages sont faciles a contourner mais il faut des moyens et des connaissances que tout le monde n'a pas. Nous n'acceptons pas que les plus necessiteux soient laissés de coté et nous partageons via ce site plusieurs moyens simples d'accéder à la television française, où que vous soyez dans le monde.
+
+Profitez-en en faites circuler l'info autour de vous.
+
+## License
+
+Voir le fichier [LICENSE](/LICENSE)
 
 ## Démarrage
 
