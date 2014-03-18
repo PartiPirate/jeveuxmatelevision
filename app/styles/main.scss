@@ -1,12 +1,36 @@
+@charset "UTF-8";
 $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 
 @import 'sass-bootstrap/lib/bootstrap';
 @import '/bower_components/flat-ui-official/css/flat-ui.css';
 @import '/styles/startupfw.css';
+@import '/styles/icon-font.css';
 
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;
     color: #000;
     padding: 0.2em 0;
+}
+
+/**
+ * Je veux ma télévision
+ */
+.header-20-sub{
+    .img-wrapper{
+        top: 60px;
+    }
+}
+/**
+ * Pourquoi le site
+ */
+.content-5{
+    .glyphicon{
+        position: absolute;
+        left: -45px;
+        top: 10px;
+        font-size: 25px;
+        font-weight: normal;
+        color: #2c3e50;
+    }
 }
