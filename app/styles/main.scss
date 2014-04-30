@@ -17,8 +17,29 @@ $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
  * Je veux ma télévision
  */
 .header-20-sub{
-    .img-wrapper{
-        top: 60px;
+}
+    h3 {
+        font-family: 'Marvel',sans-serif;
+        font-size: 55px;
+        font-style: normal;
+        font-weight: 400;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;
+    }
+
+    h3 span {
+        color: #2F2F2F;
+        cursor: pointer;
+        display: inline-block;
+        padding: 50px 0 85px;
+    }
+
+    h3 img {
+        cursor: pointer;
+        display: inline;
+        margin-top: 46px;
+        vertical-align: middle;
     }
 }
 /**
@@ -33,4 +54,20 @@ $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
         font-weight: normal;
         color: #2c3e50;
     }
+    h3 {
+        font-family: 'Old Standard TT',serif;
+        font-size: 42px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #A0B0C4;
+    }
+    h6 {
+        font-family: 'Old Standard TT',serif;
+        font-size: 1.8em;
+        font-style: italic;
+        font-weight: 700;
+        line-height: 1;
+        margin: 0 0 10px;
+    }
+
 }
